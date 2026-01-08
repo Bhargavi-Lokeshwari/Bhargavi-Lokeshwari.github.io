@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.myapplication",
+      "package_name": "com.synchronoss.pcloud.android.syncdrive",
       "sha256_cert_fingerprints": [
-        "E8:9D:CD:52:39:DD:8E:7E:FC:F3:FE:6A:CF:D9:86:8E:BB:37:FA:08:21:4C:03:05:1C:FA:F6:7F:2D:B5:FA:1F"
+"E8:9D:CD:52:39:DD:8E:7E:FC:F3:FE:6A:CF:D9:86:8E:BB:37:FA:08:21:4C:03:05:1C:FA:F6:7F:2D:B5:FA:1F"
       ]
     }
   }
